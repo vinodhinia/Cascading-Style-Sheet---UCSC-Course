@@ -1,0 +1,19 @@
+body{
+    font-family:Times;
+    font-size: 100%;
+    color:#000;
+    background-color:#fff;
+}
+img{
+    float:left;
+    margin: 10px;
+}
+.special{
+    font: italic 100%/1.5em Arial, Helvetica, sans-serif;
+    background: #bCCAF8 url(gldstar.gif) no-repeat top right;
+    padding:30px;
+    border: 1px solid #fff;
+    margin: 10px 20px 10px 1px;
+    width:300px;
+    float:left;
+}

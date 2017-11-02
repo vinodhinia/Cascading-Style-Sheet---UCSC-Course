@@ -1,0 +1,35 @@
+body{
+    font: 100%/1.5em Verdana, Arial , sans-serif;
+    background: #ffc;
+}
+div{
+    width:100px;
+    height:100px;
+    border:1px solid #999;
+
+}
+#one{
+    background: pink;
+    position:absolute;
+    top:0;
+    left:0;
+}
+#two{
+    background: blue;
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+#three{
+    background: green;
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+#four{
+    background: orange;
+    position:absolute;
+    bottom:0;
+    right:0;
+}

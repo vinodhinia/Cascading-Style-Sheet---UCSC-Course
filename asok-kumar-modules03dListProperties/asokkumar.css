@@ -1,0 +1,29 @@
+p{
+    font-family: "Times New Roman";
+    font-size:.9em;
+    text-transform:capitalize;
+    text-align: justify;
+    text-indent: 2em;
+}
+h1,h2,h4,h6{
+    font-family: "Times New Roman";
+    font-size: 100%;
+    word-spacing: 0.5em;
+    text-transform: capitalize;
+}
+h3{
+    font-style: italic;
+}
+h5{
+    font-weight: bold;
+    font-variant:small-caps;
+    color:rgb(0,0,255);
+    letter-spacing:0.1em;
+    text-decoration: none;
+}
+ol{
+    list-style-type: disc;
+}
+ul{
+    list-style-image: url(FrameArrow.gif);
+}

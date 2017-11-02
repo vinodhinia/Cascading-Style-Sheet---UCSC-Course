@@ -1,0 +1,27 @@
+body{
+    background: #ffc;
+    font-family: Verdana, Arial, sans-serif;
+}
+div{
+    width:100px;
+    height:100px;
+    /*border:1px solid #999;*/
+    position: fixed;
+}
+h1, p{
+    background: #dccbac;
+    margin:10px 110px;
+    padding:5px;
+    line-height:2em;
+}
+#one{
+    background: url(roseVaseClipart.jpg);
+    top:0;
+    left:0;
+}
+
+#four{
+    background: url(roseVaseClipart.jpg);
+    bottom:0;
+    right:0;
+}

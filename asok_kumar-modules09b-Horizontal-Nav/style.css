@@ -1,0 +1,21 @@
+#navcontainer ul{
+    font-family: Verdana, Arial, sans-serif;
+    padding-left: 0;
+    margin-left: 0;
+    background: #036;
+    float:left;
+    width:100%;
+}
+#navlist li{
+    display: inline;
+}
+#navlist a{
+    color:#fff;
+    padding: 0.2em 1em;
+    text-decoration: none;
+    border-right: 1px solid #fff;
+    float:left;
+}
+#navlist li a:hover, #navlist li a:focus{
+    background: #569;
+}

@@ -1,0 +1,29 @@
+#nav, #footer, img{
+    display: none;
+}
+
+#header, #content{
+    width:auto;
+    marging:0;
+    padding:0;
+}
+*{
+    color:#000 !important;
+}
+h1{
+    font-size: 30pt !important;
+}
+h2{
+    font-size: 16pt !important;
+}
+p{
+    font-size:11pt !important;
+}
+h3{
+    page-break-before: always;
+}
+a:after{
+    content:"(" attr(href)")";
+    color:#ccc;
+    font-size: 14pt;
+}
